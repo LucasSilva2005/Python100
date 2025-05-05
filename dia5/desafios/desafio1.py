@@ -1,0 +1,1 @@
+lista = input('digite 5 itens de sua preferência: ')
